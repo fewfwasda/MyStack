@@ -1,0 +1,11 @@
+C:\MyProject\StackKonecnaya\Stack\QuickSortAlgorithm\bin\Debug\net8.0\QuickSortAlgorithm.deps.json
+C:\MyProject\StackKonecnaya\Stack\QuickSortAlgorithm\bin\Debug\net8.0\QuickSortAlgorithm.dll
+C:\MyProject\StackKonecnaya\Stack\QuickSortAlgorithm\bin\Debug\net8.0\QuickSortAlgorithm.pdb
+C:\MyProject\StackKonecnaya\Stack\QuickSortAlgorithm\obj\Debug\net8.0\QuickSortAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProject\StackKonecnaya\Stack\QuickSortAlgorithm\obj\Debug\net8.0\QuickSortAlgorithm.AssemblyInfoInputs.cache
+C:\MyProject\StackKonecnaya\Stack\QuickSortAlgorithm\obj\Debug\net8.0\QuickSortAlgorithm.AssemblyInfo.cs
+C:\MyProject\StackKonecnaya\Stack\QuickSortAlgorithm\obj\Debug\net8.0\QuickSortAlgorithm.csproj.CoreCompileInputs.cache
+C:\MyProject\StackKonecnaya\Stack\QuickSortAlgorithm\obj\Debug\net8.0\QuickSortAlgorithm.dll
+C:\MyProject\StackKonecnaya\Stack\QuickSortAlgorithm\obj\Debug\net8.0\refint\QuickSortAlgorithm.dll
+C:\MyProject\StackKonecnaya\Stack\QuickSortAlgorithm\obj\Debug\net8.0\QuickSortAlgorithm.pdb
+C:\MyProject\StackKonecnaya\Stack\QuickSortAlgorithm\obj\Debug\net8.0\ref\QuickSortAlgorithm.dll

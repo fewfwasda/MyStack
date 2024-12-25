@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StackAlgorithm/1.0.0": {
+        "dependencies": {
+          "QuickSortAlgorithm": "1.0.0"
+        },
+        "runtime": {
+          "StackAlgorithm.dll": {}
+        }
+      },
+      "QuickSortAlgorithm/1.0.0": {
+        "runtime": {
+          "QuickSortAlgorithm.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StackAlgorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuickSortAlgorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

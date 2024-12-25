@@ -1,0 +1,15 @@
+C:\MyProject\StackKonecnaya\Stack\Stack\bin\Debug\net8.0\StackAlgorithm.deps.json
+C:\MyProject\StackKonecnaya\Stack\Stack\bin\Debug\net8.0\StackAlgorithm.dll
+C:\MyProject\StackKonecnaya\Stack\Stack\bin\Debug\net8.0\StackAlgorithm.pdb
+C:\MyProject\StackKonecnaya\Stack\Stack\bin\Debug\net8.0\QuickSortAlgorithm.dll
+C:\MyProject\StackKonecnaya\Stack\Stack\bin\Debug\net8.0\QuickSortAlgorithm.pdb
+C:\MyProject\StackKonecnaya\Stack\Stack\obj\Debug\net8.0\StackAlgorithm.csproj.AssemblyReference.cache
+C:\MyProject\StackKonecnaya\Stack\Stack\obj\Debug\net8.0\StackAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProject\StackKonecnaya\Stack\Stack\obj\Debug\net8.0\StackAlgorithm.AssemblyInfoInputs.cache
+C:\MyProject\StackKonecnaya\Stack\Stack\obj\Debug\net8.0\StackAlgorithm.AssemblyInfo.cs
+C:\MyProject\StackKonecnaya\Stack\Stack\obj\Debug\net8.0\StackAlgorithm.csproj.CoreCompileInputs.cache
+C:\MyProject\StackKonecnaya\Stack\Stack\obj\Debug\net8.0\StackAlg.7E5F0231.Up2Date
+C:\MyProject\StackKonecnaya\Stack\Stack\obj\Debug\net8.0\StackAlgorithm.dll
+C:\MyProject\StackKonecnaya\Stack\Stack\obj\Debug\net8.0\refint\StackAlgorithm.dll
+C:\MyProject\StackKonecnaya\Stack\Stack\obj\Debug\net8.0\StackAlgorithm.pdb
+C:\MyProject\StackKonecnaya\Stack\Stack\obj\Debug\net8.0\ref\StackAlgorithm.dll

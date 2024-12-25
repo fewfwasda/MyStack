@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackAlgorithm", "Stack\StackAlgorithm.csproj", "{C674DF60-71B2-4255-A146-65A0128A2251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickSortAlgorithm", "QuickSortAlgorithm\QuickSortAlgorithm.csproj", "{652104D0-FAB4-460B-9860-531E05D82534}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C674DF60-71B2-4255-A146-65A0128A2251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C674DF60-71B2-4255-A146-65A0128A2251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C674DF60-71B2-4255-A146-65A0128A2251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C674DF60-71B2-4255-A146-65A0128A2251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{652104D0-FAB4-460B-9860-531E05D82534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{652104D0-FAB4-460B-9860-531E05D82534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{652104D0-FAB4-460B-9860-531E05D82534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{652104D0-FAB4-460B-9860-531E05D82534}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {454CCCFA-0AA3-4510-896E-B536BEE592E8}
+	EndGlobalSection
+EndGlobal
